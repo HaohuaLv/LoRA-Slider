@@ -1,0 +1,14 @@
+[
+    {
+        "target_prompt": "an extremely fat, morbidly obese person",
+        "trigger_prompt": "person",
+        "trigger_lora_weight": "positive",
+        "guidance_scale": 3.0
+    },
+    {
+        "target_prompt": "an extremely skinny, morbidly thin person",
+        "trigger_prompt": "person",
+        "trigger_lora_weight": "negative",
+        "guidance_scale": 3.0
+    }
+]

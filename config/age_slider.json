@@ -1,0 +1,14 @@
+[
+    {
+        "target_prompt": "elderly person",
+        "trigger_prompt": "person",
+        "trigger_lora_weight": "positive",
+        "guidance_scale": 3.0
+    },
+    {
+        "target_prompt": "3-year-old person",
+        "trigger_prompt": "person",
+        "trigger_lora_weight": "negative",
+        "guidance_scale": 3.0
+    }
+]
