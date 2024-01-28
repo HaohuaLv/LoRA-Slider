@@ -1,6 +1,6 @@
 # LoRA-Slider
 
-<img src="pic/age_slider.png" width=250>\t<img src="pic/weight_slider.png" width=250><img src="pic/gender_slider.png" width=250>
+<img src="pic/age_slider.png" width=250>/t<img src="pic/weight_slider.png" width=250><img src="pic/gender_slider.png" width=250>
 
 ---
 
